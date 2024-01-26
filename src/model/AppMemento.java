@@ -20,6 +20,5 @@ public class AppMemento {
 		
 		Memento m1 = c.getMemento(0);
 		Memento m2 = c.getMemento(1);
-		
 	}
 }
